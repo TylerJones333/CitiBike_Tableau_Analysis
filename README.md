@@ -14,6 +14,10 @@ Another phenomena was the majority of Citi bikers were in their early to mid thi
 
 I found this Citi biking dataset helpful for building visualizations using Tableau. I plan to use this same dataset to discover more trends.
 
+### Tableau Link
+* Click [here](https://public.tableau.com/profile/tyler2183#!/vizhome/CitiBikeStoryAnalysis/CitibikeStory?publish=yes) to view the project!
+
+
 ![CitiBike_StoryBoard.jpg](CitiBike_StoryBoard.jpg)
 
 
